@@ -4,14 +4,14 @@
 # 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-sum = 0
-a = 1
+a = 0
+b = 1
 
 for i in range(1, 11):
-  while sum % i == 0:
-    sum = sum + a
- 
-print("The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 is:", sum)
+  while a % i == 0:
+    a = a + b
+
+print("The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 is:", a)
 
 
 
