@@ -7,9 +7,9 @@
 
 # returns smallest multiple that is evenly divisible by all numbers from 1 - n
 # returns -1 if multiple does not exist
-def findSmallestMultiple(n):
-    for i in range(n, factorial(n) + 1, n):
-        if isMultiple(i, n):
+
+    for i in range(1, 11):
+        if isMultiple(i, 2):
             return i
     return -1
 
@@ -29,4 +29,4 @@ def factorial(n):
     else: return -1
 
 print (findSmallestMultiple(10)) # 2520
-print (findSmallestMultiple(20)) # 232792560
+print (findSmallestMultiple(20))
