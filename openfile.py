@@ -1,6 +1,6 @@
-f = open("data/iris.csv")
+with open("data/iris.csv") as f:
+  contents = f.read()
+  print(contents)
 
-
-print(f.read())
-
-f.close()
+print("Out of with!")
+# remember to close file
