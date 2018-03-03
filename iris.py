@@ -12,7 +12,6 @@ with open("data/iris.csv") as f:      # we are opening the file in this line. "a
       print(line.split(',')[0:4])  
 
 # Notes for line 12:   
-# the files new line character and the print commands new line character are both getting printed.  
-# Adding "end=''" stops printing out the new line character from the print command. the ".split" addition to the  "line" function splits each line into a Python List
+# the ".split" addition to the  "line" function splits each line into a Python List
 # Adding [0] prints out the first number on each line, changing this to [1] prints out the next column etc.
-# look at python turorial to figure out how to remove new line character
+
