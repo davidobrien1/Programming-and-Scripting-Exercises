@@ -34,4 +34,3 @@ with open("data/iris.csv") as f:
     line = line.split(',')
     print('{:>3} {:>3} {:>3} {:>3}'.format(line[0], line[1], line[2], line[3])) # the > symbol right aligns the text and the number specifies the width of the string.
 
-    
