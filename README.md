@@ -1,3 +1,5 @@
+[Image of GMIT logo](https://www.google.ie/search?q=gmit&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi11ZqWhaHaAhWCJ8AKHWjDCB4Q_AUICigB&biw=967&bih=428#imgrc=gRJhl5mT6jmSLM:)
+
 # Programming-and-Scripting-Exercises
 
 ## Semester 1 Programming and Scripting Exercise submissions
