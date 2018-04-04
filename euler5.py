@@ -1,7 +1,7 @@
 # David O'Brien, 2018-02-23
 # Week 5 Exercise 4 - Project Euler Problem 5
 # Reference: https://code.mikeyaworski.com/python/project_euler/problem_5
-# 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+# Exercise Desctiption: 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 # Write a Python program using for and range to calculate the smallest positive number that is 
 # evenly divisible by all of the numbers from 1 to 20
 
