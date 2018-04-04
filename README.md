@@ -4,6 +4,9 @@
 
 ## Semester 1 Programming and Scripting Exercise submissions
 
+### Student:    David O'Brien
+### Student ID: G00364766
+
 Please see list below for location of Exercises 1 to 6
 
 * Exercises for week 1 and week 2 (combined) are contained within the file "fibname.py"
