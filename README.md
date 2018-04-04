@@ -1,4 +1,4 @@
-[Image of GMIT logo](https://www.google.ie/search?q=gmit&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi11ZqWhaHaAhWCJ8AKHWjDCB4Q_AUICigB&biw=967&bih=428#imgrc=gRJhl5mT6jmSLM:)
+[Image of GMIT logo](https://3m20wtf9vk-flywheel.netdna-ssl.com/wp-content/uploads/2011/12/gmitlogo.jpg)
 
 # Programming-and-Scripting-Exercises
 
