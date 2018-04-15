@@ -1,5 +1,3 @@
-![Image of GMIT logo](https://3m20wtf9vk-flywheel.netdna-ssl.com/wp-content/uploads/2011/12/gmitlogo.jpg)
-
 # Programming-and-Scripting-Exercises
 
 ## Semester 1 Programming and Scripting Exercise submissions
